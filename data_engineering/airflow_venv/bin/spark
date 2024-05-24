@@ -1,0 +1,3 @@
+#!/Users/shahzeb/PycharmProjects/data_engineering/airflow_venv/bin/python
+from spark import spark_admin
+spark_admin.main()
